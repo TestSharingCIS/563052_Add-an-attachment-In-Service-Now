@@ -1,0 +1,11 @@
+
+    {
+        "username" :"admin",
+        "password" : "Wipro@123",
+        "InstanceName" : "https://dev50379.service-now.com",
+        "fileToAttach" : "C:\\Users\\KA20019149\\Desktop\\OutputCSVReport.txt",
+		"sys_id_record" : "eaf5d21347c12200e0ef563dbb9a7109",
+		"table_name":"change_request"
+        
+        
+    }
